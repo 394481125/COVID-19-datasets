@@ -7,6 +7,7 @@
 |Synthetic COVID-19 CXR Dataset|PNG|CSV|分类|[直接下载](https://github.com/hasibzunair/synthetic-covid-cxr-dataset)|0.5 GB|2020|
 |BrixIA (BrixIA Covid-19)|DICOM|CSV|分类（打分）|[需要申请](https://brixia.github.io/)|1 GB|2020|
 |Tuberculosis Chest X-rays (Shenzhen)|PNG|CSV|分类|[直接下载](https://www.kaggle.com/datasets/raddar/tuberculosis-chest-xrays-shenzhen)|3.77 GB|2014|
+|COVID-Net CT|PNG|CSV|分类|[直接下载](https://github.com/haydengunraj/COVIDNet-CT)|15.7 GB|2020|
 |NIH Chest X-rays|PNG|CSV|分类、检测|[直接下载](https://nihcc.app.box.com/v/ChestXray-NIHCC/folder/36938765345)|45.7 GB|2017|
 |VinBigData Chest X-ray Abnormalities Detection|DICOM|CSV|分类|[直接下载](https://vindr.ai/datasets/cxr)、[需要申请](https://vindr.ai/datasets/cxr)|1 GB|2020|
 
